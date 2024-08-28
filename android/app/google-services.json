@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642242520416",
+    "project_id": "nhatot-dfad9",
+    "storage_bucket": "nhatot-dfad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642242520416:android:84f446478e0799b939ea05",
+        "android_client_info": {
+          "package_name": "com.nhatot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1OWcBnlUJ-mandAL000bLt8FmFF6UV3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
